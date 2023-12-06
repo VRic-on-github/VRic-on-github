@@ -1,6 +1,6 @@
 - 👋 I’m @VRic-on-github
 
-I mostly write AppleScript these days; I may or may not move some of it here.
+I mostly write AppleScript these days; maybe I'll move some of it here.
 
 I forgot pretty much all of Lisp.
 
